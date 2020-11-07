@@ -8,6 +8,7 @@
     "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^12.2.0",
     "chart.js": "^2.9.4",
+    "firebase-tools": "^8.15.1",
     "leaflet": "^1.7.1",
     "numeral": "^2.0.6",
     "react": "^17.0.1",
